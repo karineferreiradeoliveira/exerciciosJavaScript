@@ -1,4 +1,4 @@
-function pcGamer (oProcessador, placadeVideo, aMemoria){
+function PcGamer (oProcessador, placadeVideo, aMemoria){
     return{
         oProcessador,
         placadeVideo,
